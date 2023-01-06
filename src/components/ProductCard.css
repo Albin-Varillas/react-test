@@ -1,0 +1,14 @@
+body {
+    background-color: #03101c;
+}
+
+.product-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+¯ img {
+    width: 200px;
+}
